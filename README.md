@@ -59,7 +59,7 @@ Python/data dashboard prototype for photovoltaic production forecasting and anom
 Streamlit dashboard for subscription/e-commerce analytics: trials, conversions, churn, renewals, cohorts and order behavior.
 
 **Shows:** Python, pandas, Streamlit, business KPIs, data cleaning, cohort analysis, reporting.  
-Public repo with synthetic data: **in preparation**.
+**Repository:** https://github.com/75016paris/dishpatch-analytics-dashboard
 
 ---
 
