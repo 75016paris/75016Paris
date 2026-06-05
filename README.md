@@ -52,7 +52,7 @@ Evaluation harness for a business WhatsApp AI assistant.
 Python/data dashboard prototype for photovoltaic production forecasting and anomaly detection.
 
 **Shows:** pandas, NumPy, scikit-learn, Streamlit, Plotly, feature engineering, forecasting metrics, dashboarding.  
-Public repo with synthetic/anonymized data: **in preparation**.
+**Repository:** https://github.com/75016paris/solshare-solar-forecasting
 
 ### Dishpatch Analytics — Subscription & order analytics dashboard
 
