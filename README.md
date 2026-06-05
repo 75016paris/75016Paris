@@ -45,7 +45,7 @@ Evaluation harness for a business WhatsApp AI assistant.
 - database mutation checks;
 - PASS/PARTIAL/FAIL scoring.
 
-Public standalone repo: **in preparation**.
+**Repository:** https://github.com/75016paris/bernardo-ai-agent-eval-harness
 
 ### Solshare / SOLroof — Solar forecasting & anomaly detection
 
