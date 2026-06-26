@@ -1,9 +1,11 @@
 # Hi, I'm Paul Roitfeld
 
-**Applied AI / Python Automation Developer**  
-Python · SQL · APIs · Data · Workflow automation · LLM evaluation
+**Technical Support / Python Automation / Applied AI**  
+Python · SQL · APIs · IT support · Workflow automation · Data · LLM evaluation
 
 I build practical business tools with Python, SQL, APIs, dashboards and generative AI. My focus is not “AI demos for the sake of AI” — it is useful workflows: automating operational tasks, integrating APIs, testing agent behavior, documenting what works, and making tools that non-technical users can actually use.
+
+Through Cosmobot, I develop independent projects and prototypes around automation, applied AI and business tooling. I am also looking for an operational tech role in a company, IT services company or consulting environment where I can contribute, learn from a team and deepen my technical skills.
 
 Based in France / Basque Country. Open to full-remote France/EU roles and occasional Paris presence.
 
@@ -15,6 +17,7 @@ Based in France / Basque Country. Open to full-remote France/EU roles and occasi
 - **Agent evaluation** — tool-routing tests, prompt-injection tests, permission boundaries, PASS/PARTIAL/FAIL scoring, replay of failures.
 - **Python/data automation** — pandas, SQL, data cleaning, reporting, Streamlit dashboards, forecasting/anomaly detection prototypes.
 - **API integrations** — REST APIs, webhooks, auth/permissions, external services, debugging and documentation.
+- **Support & troubleshooting** — IT/applicative support mindset, user needs, diagnostics, documentation, basic networking and security awareness.
 - **Practical deployment** — Linux/VPS, SSH, Caddy, systemd, logs, backups, staging/production basics.
 
 I use AI coding tools as an accelerator, but I keep ownership of product framing, integration, debugging, testing, documentation and delivery.
@@ -47,19 +50,21 @@ Evaluation harness for a business WhatsApp AI assistant.
 
 **Repository:** https://github.com/75016paris/bernardo-ai-agent-eval-harness
 
-### Solshare / SOLroof — Solar forecasting & anomaly detection
+### Solar Forecasting Dashboard
 
 Python/data dashboard prototype for photovoltaic production forecasting and anomaly detection.
 
 **Shows:** pandas, NumPy, scikit-learn, Streamlit, Plotly, feature engineering, forecasting metrics, dashboarding.  
-**Repository:** https://github.com/75016paris/solshare-solar-forecasting
+**Live demo:** https://solar.cosmobot.fr  
+**Repository:** https://github.com/75016paris/solar-forecasting-anomaly-detection-dashboard
 
-### Dishpatch Analytics — Subscription & order analytics dashboard
+### Subscription Analytics Dashboard
 
 Streamlit dashboard for subscription/e-commerce analytics: trials, conversions, churn, renewals, cohorts and order behavior.
 
 **Shows:** Python, pandas, Streamlit, business KPIs, data cleaning, cohort analysis, reporting.  
-**Repository:** https://github.com/75016paris/dishpatch-analytics-dashboard
+**Live demo:** https://analytics.cosmobot.fr  
+**Repository:** https://github.com/75016paris/subscription-analytics-dashboard
 
 ---
 
@@ -72,6 +77,7 @@ Data          cleaning · KPIs · dashboards · forecasting · anomaly detection
 AI / LLM      tool calling · prompt engineering · evals · prompt-injection tests
 APIs          REST · JSON · webhooks · auth · permissions
 Web           React/TypeScript basics · Hono/Bun/Drizzle project experience
+IT/support    troubleshooting · documentation · basic networking/security awareness
 Ops           Git · Linux · SSH · VPS · Caddy · systemd · logs · backups
 ```
 
@@ -79,10 +85,10 @@ Ops           Git · Linux · SSH · VPS · Caddy · systemd · logs · backups
 
 ## Roles I'm interested in
 
-- Junior Applied AI Developer
-- Python automation / API integration developer
-- AI Solutions / Implementation Engineer junior
 - Technical Support Engineer — API/SQL/SaaS
+- Junior Technical Consultant / Solutions Consultant
+- Python automation / API integration developer
+- Junior Applied AI Developer
 - Data Analyst with Python automation
 - QA / LLM evaluation / AI agent testing
 
@@ -90,6 +96,6 @@ Ops           Git · Linux · SSH · VPS · Caddy · systemd · logs · backups
 
 ## Contact
 
-- Email: paulyacha@gmail.com
+- Email: info@cosmobot.fr
 - GitHub: https://github.com/75016paris
 - Portfolio: https://cosmobot.fr
