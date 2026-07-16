@@ -1,4 +1,4 @@
-# Hi, I'm Paul Roitfeld
+# Hi, I'm PR
 
 **Application Support & Python Automation | APIs, SQL, SaaS, Data & Applied AI**  
 Python · SQL · REST APIs · application support · workflow automation · dashboards · LLM evaluation
