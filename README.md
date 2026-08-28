@@ -1,94 +1,88 @@
-# Hi, I'm PR
+# Hi, I'm Paul Roitfeld
 
-**Application Support & Python Automation | APIs, SQL, SaaS, Data & Applied AI**  
-Python · SQL · REST APIs · application support · workflow automation · dashboards · LLM evaluation
+**AI Solutions Engineer | Business-agent deployment, integration, evaluation and observability**  
+Python · SQL · REST APIs · LLM tool-calling · OpenTelemetry · Langfuse · client delivery
 
-I build practical business tools with Python, SQL, APIs, dashboards and applied AI. My focus is not “AI demos for the sake of AI” — it is useful workflows: automating operational tasks, integrating APIs, testing agent behavior, documenting what works, and making tools that non-technical users can actually use.
+I turn operational workflows into testable AI applications. My focus is the full delivery loop: understand the business need, integrate the application with APIs and data, keep sensitive actions behind deterministic controls, evaluate the agent against business-risk scenarios, diagnose failures and iterate.
 
-Through Cosmobot, I develop independent projects and prototypes around automation, applied AI and business tooling. I am looking for an operational tech role in a company, SaaS team, IT services company or consulting environment where I can contribute, learn from a team and deepen my technical skills.
+After fifteen years in client-facing audiovisual delivery, I moved into technical work through applied AI, Python and data projects. I am targeting AI Solutions Engineer, AI Deployment Consultant, Forward Deployed Engineer and Implementation Consultant roles in product teams, consulting firms and IT services companies.
 
-Currently based in Paris until September 2026, then Bayonne/Biarritz. Available immediately. Open to Paris/hybrid, France remote and EU remote opportunities.
-
----
-
-## What I work on
-
-- **Application support & troubleshooting** — user needs, diagnostics, documentation, API/SQL/SaaS support mindset.
-- **Python/data automation** — pandas, SQL, data cleaning, reporting, Streamlit dashboards, forecasting/anomaly detection prototypes.
-- **API integrations** — REST APIs, JSON, webhooks, auth/permissions, external services, debugging and documentation.
-- **Applied AI tools** — business assistants, LLM tool/function calling, confirmation flows, prompt engineering, context management.
-- **Agent evaluation** — tool-routing tests, prompt-injection tests, permission boundaries, PASS/PARTIAL/FAIL scoring, replay of failures.
-- **Practical deployment** — Git, Linux/VPS, SSH, Caddy, systemd, logs, backups, staging/production basics.
-
-I use AI coding tools as an accelerator, but I keep ownership of product framing, integration, debugging, testing, documentation and delivery.
+Based in France. Open to remote France/Europe roles and client travel.
 
 ---
 
-## Featured projects
+## Flagship case study — Comptoir + Bernardo
 
-### Comptoir — AI workforce-planning SaaS demo for restaurants
+### Bernardo — evaluating a business AI agent
 
-Business SaaS demo for restaurants: web dashboard + WhatsApp assistant to manage schedules, teams, hours, leave requests, replacements and HR constraints.
+Evaluation and model-selection case study for a restaurant workforce-planning assistant.
 
-**Shows:** applied AI product building, APIs, LLM tool-calling, permissions, planning logic, deployment.  
-**Stack:** Python, SQL, SQLite, React, TypeScript, Hono/Bun, Drizzle, OR-Tools, Stripe, WhatsApp Cloud API, OVH, Caddy, systemd.  
-**Live demo:** https://comptoir.cosmobot.fr  
+- **100 business-risk scenarios × 6 configurations = 600 observations**.
+- Checks across replies, tool calls, APIs and resulting database state.
+- Retrieval, mutations, permissions, cross-tenant isolation and prompt injection.
+- OpenTelemetry instrumentation exported to self-hosted Langfuse.
+- Analysis across quality, write integrity, observed security, p95 latency and cost.
+- Failure diagnosis leading to deterministic confirmation and evidence-preservation recommendations—not another prompt-only iteration.
+
+**Repository:** https://github.com/75016paris/bernardo-agent-evals
+
+### Comptoir — the assistant being evaluated
+
+Restaurant workforce-planning SaaS demo: web dashboard, API and WhatsApp assistant for schedules, leave and replacement workflows.
+
+The model handles intent, tool selection and language. Deterministic code owns authorization, tenant isolation, confirmations, database writes and staffing constraints.
+
+**Demo:** https://comptoir.cosmobot.fr  
 **Repository:** https://github.com/75016paris/comptoir-ai-restaurant-planning
 
-### Bernardo AI Agent Eval Harness
+---
 
-Evaluation harness for a business WhatsApp AI assistant.
+## Client delivery proof
 
-**Tests include:** tool routing, relative dates, permission boundaries, cross-tenant isolation, prompt injection, database mutation checks and PASS/PARTIAL/FAIL scoring.
+### SOLshare — solar forecasting and anomaly detection
 
-**Repository:** https://github.com/75016paris/bernardo-ai-agent-eval-harness
+Internal data tool delivered to a solar company in Bangladesh: multi-site monitoring, photovoltaic forecasting and anomaly detection.
 
-### Solar Forecasting Dashboard
-
-Python/data dashboard prototype for photovoltaic production forecasting and anomaly detection.
-
-**Shows:** pandas, NumPy, scikit-learn, Streamlit, Plotly, feature engineering, forecasting metrics, dashboarding.  
-**Live demo:** https://solar.cosmobot.fr  
 **Repository:** https://github.com/75016paris/solar-forecasting-anomaly-detection-dashboard
 
-### Subscription Analytics Dashboard
+### Dishpatch — subscription analytics
 
-Streamlit dashboard for subscription/e-commerce analytics: trials, conversions, churn, renewals, cohorts and order behavior.
+Internal analytics tool delivered to a meal-delivery company in England: conversion, churn, renewals, cohorts and purchase behavior.
 
-**Shows:** Python, pandas, Streamlit, business KPIs, data cleaning, cohort analysis, reporting.  
-**Live demo:** https://analytics.cosmobot.fr  
 **Repository:** https://github.com/75016paris/subscription-analytics-dashboard
+
+Public repositories use synthetic data to protect client confidentiality.
 
 ---
 
 ## Current stack
 
 ```text
-Python        pandas · NumPy · scikit-learn · scripts · Jupyter
-SQL           SQLite · joins · schemas · business queries
-Data          cleaning · KPIs · dashboards · forecasting · anomaly detection
-AI / LLM      tool calling · prompt engineering · evals · prompt-injection tests
-APIs          REST · JSON · webhooks · auth · permissions
-Web           React/TypeScript basics · Hono/Bun/Drizzle project experience
-Support       troubleshooting · documentation · user communication · SaaS/API mindset
-Ops           Git · Linux · SSH · VPS · Caddy · systemd · logs · backups
+AI agents     LLM APIs · tool/function calling · prompt engineering · human-in-the-loop
+Evaluation    reply/tool/API/database checks · permissions · prompt injection · failure analysis
+Observability OpenTelemetry · self-hosted Langfuse · traces · tokens · cost · latency · scores
+Integration   REST APIs · JSON · webhooks · auth · multi-tenant boundaries
+Python/data   Python · SQL · pandas · NumPy · scikit-learn · Streamlit · Plotly
+Delivery      discovery · demos · documentation · troubleshooting · client communication
+Ops           Git · GitHub · Linux · SSH · OVH VPS · Caddy · systemd · logs
+Web           React · TypeScript · Hono/Bun · Drizzle project experience
 ```
+
+I use AI coding tools as an accelerator while keeping ownership of framing, integration, debugging, testing, deployment and documentation.
 
 ---
 
 ## Roles I'm interested in
 
-- Application / Technical Support — API, SQL, SaaS
-- IT Business Analyst / BI / Reporting
-- Implementation Specialist / Technical Consultant
-- Python automation / API integration
-- Data Analyst with Python automation
-- QA / LLM evaluation / AI agent testing
+- AI Solutions Engineer
+- AI Deployment Consultant / Technical Consultant
+- Forward Deployed Engineer
+- Implementation Consultant / Specialist
+- Customer Engineer for AI/API products
 
 ---
 
 ## Contact
 
 - Portfolio: https://cosmobot.fr
-- GitHub: https://github.com/75016paris
 - Email: info@cosmobot.fr
